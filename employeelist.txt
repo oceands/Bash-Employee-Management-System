@@ -1,0 +1,11 @@
+1234567 raj parttime 1000 13 42 9 -
+2345703 Mohan fulltime 100002 54 - - 230
+1263243 kiran fulltime 4800 23 - - 780
+4563282 Ramesh parttime 1900 51 60 12 -
+8779868 kamlesh fulltime 560003 34 - - 720
+7665788 raghav parttime 7900 63 32 19 -
+7567878 abdullah parttime 4500 45 18 7 -
+1236547 Sarah parttime 1000 3 26 3 -
+1111111 Joel fulltime 20000 36 - - 25000
+1236524 georgina fulltime 100 1 - - 625000
+1123654 james parttime 1000 23 34 70 -
